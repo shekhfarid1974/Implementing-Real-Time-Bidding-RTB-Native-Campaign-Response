@@ -14,7 +14,7 @@ Files
 How to Run
 
 1. Clone the repository:  
-   `git clone <repository_url>`
+   `git clone https://github.com/shekhfarid1974/Implementing-Real-Time-Bidding-RTB-Native-Campaign-Response.git
 2. Start a PHP server:  
    `php -S localhost:8000`
 3. Send a POST request to the server with a bid request JSON.  
